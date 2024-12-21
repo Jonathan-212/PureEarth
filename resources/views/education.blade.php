@@ -88,6 +88,119 @@
             </article>
           </div>
 
+          <div class="col-lg-4 col-md-6">
+            <article>
+              <div class="post-img">
+                <a href="/education/4"><img src="{{asset('img/education/education-4.jpg')}}" alt="" class="img-fluid"></a>
+              </div>
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><a href="https://youtu.be/4n3T7KyMV_0?si=G6yd6_LJpTCJJPjH" target="_blank">Video</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-dot"></i><time datetime="2022-01-01">Nov 14, 2017</time></li>
+                </ul>
+              </div>
+              <h2 class="title">
+                <a href="/education/4">The importance of saving marine life from ocean plastics</a>
+              </h2>
+            </article>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <article>
+              <div class="post-img">
+                <a href="/education/5"><img src="{{asset('img/education/education-5.jpg')}}" alt="" class="img-fluid"></a>
+              </div>
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><a href="https://youtu.be/ViJMdb8wVpE?si=8BZYgf9C-RqabV9E" target="_blank">Video</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-dot"></i><time datetime="2022-01-01">Aug 31, 2016</time></li>
+                </ul>
+              </div>
+              <h2 class="title">
+                <a href="/education/5">The Clear Solution to Urban Waste</a>
+              </h2>
+            </article>
+          </div>
+          
+	        <div class="col-lg-4 col-md-6">
+            <article>
+              <div class="post-img">
+                <a href="/education/6"><img src="{{asset('img/education/education-6.jpg')}}" alt="" class="img-fluid"></a>
+              </div>
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><a href="https://youtu.be/5jfmzufa8qo?si=9m0xDgHu8CIVrbv2" target="_blank">Video</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-dot"></i><time datetime="2022-01-01">Jan 26, 2018</time></li>
+                </ul>
+              </div>
+              <h2 class="title">
+                <a href="/education/6">Noise Pollution Is Much Worse For You Than You Think</a>
+              </h2>
+            </article>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <article>
+              <div class="post-img">
+                <a href="/education/7"><img src="{{asset('img/education/education-7.jpg')}}" alt="" class="img-fluid"></a>
+              </div>
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><a href="https://youtu.be/jGVw_SfRlqo?si=Uq2tORPl4kncGQAP" target="_blank">Video</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-dot"></i><time datetime="2022-01-01">Aug 12, 2023</time></li>
+                </ul>
+              </div>
+              <h2 class="title">
+                <a href="/education/7">Renewable Energy vs. Fossil Fuels</a>
+              </h2>
+            </article>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <article>
+              <div class="post-img">
+                <a href="/education/8"><img src="{{asset('img/education/education-8.jpg')}}" alt="" class="img-fluid"></a>
+              </div>
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><a href="https://youtu.be/jozRMKNCejE?si=DDZX0_Mgs0gjaxWo" target="_blank">Video</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-dot"></i><time datetime="2022-01-01">Nov 8, 2023</time></li>
+                </ul>
+              </div>
+              <h2 class="title">
+                <a href="/education/8">Recovery of compacted soils</a>
+              </h2>
+            </article>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <article>
+              <div class="post-img">
+                <a href="/education/9"><img src="{{asset('img/education/education-9.jpg')}}" alt="" class="img-fluid"></a>
+              </div>
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><a href="https://youtu.be/G9t__9Tmwv4?si=95d6NPV1Rizf8uNP" target="_blank">Video</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-dot"></i><time datetime="2022-01-01">Jan 16, 2023</time></li>
+                </ul>
+              </div>
+              <h2 class="title">
+                <a href="/education/9">Climate Change and Global Warming: Explained in Simple Words for Beginners</a>
+              </h2>
+            </article>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <article>
+              <div class="post-img">
+                <a href="/education/10"><img src="{{asset('img/education/education-10.jpg')}}" alt="" class="img-fluid"></a>
+              </div>
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><a href="https://youtu.be/l4P16HvJoeA?si=tt8ojXeHJGCI0Kg1" target="_blank">Video</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-dot"></i><time datetime="2022-01-01">Aug 20, 2022</time></li>
+                </ul>
+              </div>
+              <h2 class="title">
+                <a href="/education/10">Deforestation: Causes and Solutions</a>
+              </h2>
+            </article>
+          </div>
         </div>
       </div>
     </section>

@@ -9,7 +9,8 @@
 PureEarth website raises awareness about soil and water pollution, offering educational resources, real-time data, and practical solutions. It empowers users to take action, report pollution incidents, and stay informed on the latest environmental news and initiatives
 
 KEY FEATURES :
-1. PROBLEMS FEATURE: 
+1. PROBLEMS FEATURE:
+    
     Pollution Problems:
 - Detailed explanations of the causes of soil and water pollution, including industrial waste and hazardous chemicals.
 - Infographics showing the impact of pollution on ecosystems and human health.
@@ -18,6 +19,7 @@ KEY FEATURES :
 - Examples of successful initiatives from various communities or organizations.
 
 2. EDUCATION FEATURE
+   
 There are four sections namely: 
 - Education Module:
   Articles and videos on the importance of maintaining soil and water quality.
@@ -30,6 +32,7 @@ There are four sections namely:
 
 
 3. CONTACT FEATURE
+   
 Contact and Support
 - Contact form for questions or technical support.
 - Information on organizations or institutions involved in pollution reduction.

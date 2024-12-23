@@ -47,3 +47,30 @@ Footer
 Links to the privacy policy, terms and conditions, and contact information for the development team.
 </p>
 
+4. Entity Relationship Diagram :
+   ![image](https://github.com/user-attachments/assets/b80ba607-243c-468a-8af0-5b31f2f8d24c)
+
+5. Link Hosting dan Domain dari Pure-Earth
+
+6. Deskripsi Fitur Utama:
+   *Homepage* -> ![image](https://github.com/user-attachments/assets/bd1efc27-e122-4349-bdc6-dbeb666835cb)
+   Dalam halaman *Homepage* tombol GetStarted dapat langsung membawa user ke page *Education* dan *Contact Us*
+   Jika di scroll kebawah, *Homepage* juga akan menampilkan page *Problem* dan *Edcuation*
+   ![image](https://github.com/user-attachments/assets/1976e945-f94a-4868-8aac-3d7de27866ce)
+   ![image](https://github.com/user-attachments/assets/c8289177-a805-461a-9d0e-be791c8e0404)
+
+   *Education* -> ![image](https://github.com/user-attachments/assets/a1551f58-4b30-43aa-92ff-9f656cfbbcf1)
+   Dalam page *Education* terdapat berbagai artikel yang dapat diakses dan menampilkan informasi terhadap judul artikel yang diakses.
+   ![image](https://github.com/user-attachments/assets/25594a89-7e4e-4282-8a93-3211da522625)
+   Jika tampilan foto pada artikel tersebut diclick, akan membawa user ke halaman Youtube untuk menonton video tentang artikel yang diakses.
+   ![image](https://github.com/user-attachments/assets/69ea5031-ff6d-4599-b679-212d739f6c58)
+
+Berikut adalah link untuk melihat video demonstrasi website Pure-Earth yang telah kami buat
+   https://youtu.be/sZhT66nS-aE
+
+
+   
+
+Footer    
+Links to the privacy policy, terms and conditions, and contact information for the development team.
+</p>

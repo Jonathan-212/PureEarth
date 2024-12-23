@@ -51,6 +51,7 @@ Links to the privacy policy, terms and conditions, and contact information for t
    ![image](https://github.com/user-attachments/assets/b80ba607-243c-468a-8af0-5b31f2f8d24c)
 
 5. Link Hosting dan Domain dari Pure-Earth
+https://pureearth.my.id/ 
 
 6. Deskripsi Fitur Utama:
    *Homepage* -> ![image](https://github.com/user-attachments/assets/bd1efc27-e122-4349-bdc6-dbeb666835cb)

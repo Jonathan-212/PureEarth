@@ -3,10 +3,10 @@ https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMY
 </p>
 GROUP 4 : 
 
-- Kenneth Surya Permana (2602101855)
-- Nathan Berwyn Lauwfried (2602115116)
-- Suryateja Jonathan Gandha (2602248312)
-- Alvin Adrianus (2602221752)
+- Kenneth Surya Permana (2602101855), Jobdesc: menyusun laporan
+- Nathan Berwyn Lauwfried (2602115116), Jobdesc: Membangun Front-End website Pure Earth, menyusun laporan
+- Suryateja Jonathan Gandha (2602248312), Jobdesc: Membangun Front-End website Pure Earth, Mengembangkan Back-End website Pure Earth, Melakukan deployment website dan hosting domain
+- Alvin Adrianus (2602221752), Jobdesc: menyusun laporan
 
 SDG 15 (Life On Land)
 
@@ -47,13 +47,13 @@ Footer
 Links to the privacy policy, terms and conditions, and contact information for the development team.
 </p>
 
-4. Entity Relationship Diagram :
+Entity Relationship Diagram :
    ![image](https://github.com/user-attachments/assets/b80ba607-243c-468a-8af0-5b31f2f8d24c)
 
-5. Link Hosting dan Domain dari Pure-Earth
+Link Hosting dan Domain dari Pure-Earth
 https://pureearth.my.id/ 
 
-6. Deskripsi Fitur Utama:
+Deskripsi Fitur Utama:
    *Homepage* -> ![image](https://github.com/user-attachments/assets/bd1efc27-e122-4349-bdc6-dbeb666835cb)
    Dalam halaman *Homepage* tombol GetStarted dapat langsung membawa user ke page *Education* dan *Contact Us*
    Jika di scroll kebawah, *Homepage* juga akan menampilkan page *Problem* dan *Edcuation*
@@ -72,6 +72,4 @@ Berikut adalah link untuk melihat video demonstrasi website Pure-Earth yang tela
 
    
 
-Footer    
-Links to the privacy policy, terms and conditions, and contact information for the development team.
-</p>
+

@@ -3,7 +3,7 @@
 </p>
 GROUP 4 : 
 
-- Kenneth Surya Permana (2602101855), Jobdesc: menyusun laporan
+- Kenneth Surya Permana (2602101855), Jobdesc: menyusun laporan, UI design
 - Nathan Berwyn Lauwfried (2602115116), Jobdesc: Membangun Front-End website Pure Earth, menyusun laporan
 - Suryateja Jonathan Gandha (2602248312), Jobdesc: Membangun Front-End website Pure Earth, Mengembangkan Back-End website Pure Earth, Melakukan deployment website dan hosting domain
 - Alvin Adrianus (2602221752), Jobdesc: menyusun laporan

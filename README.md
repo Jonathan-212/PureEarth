@@ -53,9 +53,13 @@ Entity Relationship Diagram :
 This ERD models a system where users can:
 
 Write articles and forum posts.
+
 Share resources.
+
 Comment on articles.
+
 Report pollution issues.
+
 Each entity is connected through foreign keys to ensure relationships between users, articles, comments, and other data are maintained.
 
 Link Hosting dan Domain dari Pure-Earth

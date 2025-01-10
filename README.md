@@ -48,7 +48,9 @@ Links to the privacy policy, terms and conditions, and contact information for t
 </p>
 
 Entity Relationship Diagram :
-   ![image](https://github.com/user-attachments/assets/b80ba607-243c-468a-8af0-5b31f2f8d24c)
+
+![ERD](https://github.com/user-attachments/assets/d99bc4b7-043c-41ff-9954-7e12b1037b0c)
+
 
 This ERD models a system where users can:
 
@@ -56,11 +58,9 @@ This ERD models a system where users can:
 
 - Share resources.
 
-- Comment on articles.
-
 - Report pollution issues.
 
-Each entity is connected through foreign keys to ensure relationships between users, articles, comments, and other data are maintained.
+Each entity is connected through foreign keys to ensure relationships between users, articles and other data are maintained.
 
 Link Hosting dan Domain dari Pure-Earth
 https://pureearth.my.id/ 
